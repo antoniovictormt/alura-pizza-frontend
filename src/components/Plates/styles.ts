@@ -10,6 +10,7 @@ export const PizzaContainer = styled.div`
 
   div, img {
     max-width: 100%;
+    border-radius: 5px;
   }
 `
 
